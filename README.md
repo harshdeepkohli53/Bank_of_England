@@ -1,4 +1,4 @@
-# Course 4 - Employer Project for the Bank of England (Final Grade: pending)
+# Course 4 - Group Employer Project for the Bank of England (Final Grade: pending)
 
 Project Details: This final 6 week project for the LSE course gave myself and 5 students the opportunity to work together in a collaborative project aimed at providing strategic insights to The Bank of England. It served as a quasi internship as there was frequent contact and presentations to The Bank itself. The focus was on speech data sentiment scores and any potential correlation to economic indicators. This project had a significant scope so, unlike previous assignments, my personal involvement was specifically in the exploratory sentiment data analysis, predictive modelling (Gradient Boosting Regression) and data visualisation.
 

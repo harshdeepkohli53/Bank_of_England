@@ -1,63 +1,32 @@
-# 2Market (Final Grade: 82%)
-2Market - Exploratory analysis and presenting insights
+# Course 4 - Employer Project for the Bank of England (Final Grade: pending)
 
-Project Summary: The first six week LSE project involved a fictional situation I helped 2Market, a leading international supermarket chain, leverage data analytics to gain deeper customer understanding to boost sales. By analysing consumer datasets, I uncovered valuable insights into customer behaviour, sales trends, and advertising effectiveness.
+Project Details: This final 6 week project for the LSE course gave myself and six students the opportunity to work together in a collaborative project aimed at providing strategic insights to The Bank of England. It served as a quasi internship as there was frequent contact and presentations to The Bank itself. The focus was on speech data sentiment scores and any potential correlation to economic indicators. This project had a significant scope so, unlike previous assignments, my personal involvement was specifically in the exploratory sentiment data analysis, predictive modelling (Gradient Boosting Regression) and data visualision expert.
 
-The business problem I identified centres around the marketing team struggling to generate adequate new business growth due to uncertainty around customer demographics and advertising
+Project Scenario: Part of the job of the Bank of England is to provide reassurance and stability to financial markets. One way this is achieved is through representatives of the Bank delivering speeches at various public events. As an organisation, the Bank of England is interested in how the trends in these speeches correlate with observed events and economic indicators, as well as how the sentiment of these speeches can be used to predict market behaviour. This analysis will inform our understanding of the impact of the Bank’s communications on the economy, as well as the predictive power of using this data set.
 
-This report considered the following main questions:
+This analysis considered the following business questions:
 
-**1. Who are the customers?**
+**1. Has the sentiment of central bank speeches changed over time? If so, how has it changed?**
 
-**2. How effective have current ad strategies been?**
+**2. How does the sentiment of the Bank of England’s speeches correlate with key Events?**
 
-**3. How do customers interact with products?**
+**3. How does the sentiment of speeches correlate with key economic indicators of the UK?**
 
+**4. Do these speeches have any predictive power to assist in predicting market behaviour?**
 
-**Analytical Approach Highlights:**
+**5. Are there other insights or findings from the analysis that may be of interest to the organisation?**
 
-**Cleaned and Pre-processed Data**: Ensured data quality by meticulously identifying and addressing inconsistencies, improving database interactions, and guaranteeing completeness. There were particular issues with data types and the presence of outliers.
-
-**SQL Analysis**: Utilised SQL to conduct in-depth analyses, including total spend per country, demographic-based product popularity, and advertising platform performance. These insights revealed hidden patterns for informed decision-making.
-
-**Actionable Dashboard**s: Designed user-friendly dashboards segmented by demographics, advertising and product interactions. These dashboards followed WAI (Web Accessibility Initiative) guidelines for accessibility, allowing stakeholders to easily grasp key findings. These can be found below.
-
-**Strategic Recommendations**: Delivered actionable insights with a direct impact on 2Market's strategy. This included optimising advertising spend, tailoring marketing for specific demographics, and adjusting product categories based on customer preferences.
+**6. What are the potential reasons for any of the correlations discovered above? How have you drawn these conclusions?**
 
 
-**Tableau Dashboard** - https://public.tableau.com/app/profile/harshdeep.kohli/vizzes
 
-**Presentation** - https://youtu.be/87TLc9i7vqI
+**Personal Analytical Approach Highlights:**
 
+**Personal Key Insights and Recommendations:**
 
-**Key Insights and Recommendations:**
-
-
-**Customer Demographics**
-
-1. Identified a core customer segment of $50K-$90K income earners as having the highest spend per customer, and suggested targeting marketing to this customer segment.
-2. Identified customers 'without children' spend c.$700 more annually than customers 'with children', and suggested targeting marketing to this customer segment.
-
-![image](https://github.com/user-attachments/assets/4f0948c4-07c8-459a-b9d4-dc52a7c7b7ec)
-
-
-**Product Sales**
-
-1. Identified a core customer segement of 45-74 year olds having the largest percentage share of spending on the top selling product ('Liquor') compared to other products.
-2. Identified a core customer segement of $50K-$74K income earners having the largest percentage share of spending on the top selling product ('Liquor') compared to other products.
-
-![image](https://github.com/user-attachments/assets/bb0c9412-4b34-498d-aa99-90f4542ff8bf)
-
-
-**Advertising** 
-
-1. Determined Twitter and Instagram as highly effective ad platforms globally; identified regional opportunities like the effectivenss of Facebook in the U.S.
-2. Highlighted bulk emails' success in India and the U.S., recommending increased focus on personalised email campaigns.
-
-![image](https://github.com/user-attachments/assets/a1cc7c15-a98a-482d-a0df-dd847cf61c10)
-
+**Team Presentation** - (insert link here)
 
 **Professional Development and Impact:**
+This project showcased my intepersonal communication skills through working with a group of people I have never previously worked with. I was also able to take on a predictive modelling task (Gradient Boosting Regression),  aswell as as a bespoke financial sentiment model which was not covered in the programme. Finally, a genuine passion for predictive analytics was cemented in the exploration of the business questions, a passion which I would love to be able to explore further.
 
-This project showcased my ability to manage large datasets, translate complex data into business insights, and deliver strategic recommendations.In particular I felt an extensive use of SQL played a central role in uncovering critical customer insights, guiding the supermarket chain toward strategic sales growth.
 

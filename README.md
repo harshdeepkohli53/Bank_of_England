@@ -4,6 +4,8 @@ Project Details: This final 6 week project for the LSE course gave myself and 5 
 
 Project Scenario: Part of the job of the Bank of England is to provide reassurance and stability to financial markets. One way this is achieved is through representatives of the Bank delivering speeches at various public events. As an organisation, the Bank of England is interested in how the trends in these speeches correlate with observed events and economic indicators, as well as how the sentiment of these speeches can be used to predict market behaviour. This analysis will inform our understanding of the impact of the Bank’s communications on the economy, as well as the predictive power of using this data set.
 
+The files included in this repository include a full project scope/plan, technical report, slides presented to the Bank of England and Python scripts. The final presentation to the Bank of England is provided in a link below.
+
 This analysis considered the following business questions:
 
 **1. Has the sentiment of central bank speeches changed over time? If so, how has it changed?**

@@ -22,9 +22,13 @@ This analysis considered the following business questions:
 I was part of a strong team of analysts, who all brought unique skills and ideas to the project. The team consisted of:
 
 Chris Buck (CB): team lead, spearheading all aspects of the project and instrumental in collating, cleaning, and merging economic-indicator data
+
 Germán de la Fuente (GF): conducted web scraping to update the data set with the most recent BoE speeches, ran predictive models including scenario analysis using external volatility data
+
 Harshdeep Kohli (HK): Implemented several sentiment models, applied an advanced Gradient Boosting regression that demonstrated the predictive power of speech sentiment
+
 Kelvin Dhondee (KD): Compiled economic-research primers for the team to enhance our collective domain knowledge, ran an advanced time-series forecasting model (SARIMAX) that demonstrated how sentiment could enhance economic predictions
+
 Victoria Pogonyaylova (VP): Played a large part in initial cleaning and EDA, used advanced techniques to customise a highly specialised sentiment model (CentralBankRoBERTa) to suit our needs.
 
 

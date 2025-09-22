@@ -62,7 +62,7 @@ Optimize Communication for Lagged Impact:
 Policymakers should strategize speech content and tone with an explicit understanding that the full economic noise of their words may not be immediate, but rather unfold over several months. For specific policy objectives, craft messages with identified sentiment facets in mind (e.g., focusing on a consistently positive 'financial sector' tone to subtly bolster exchange rates or investment confidence over the next 2-3 months).
 
 
-**Team Presentation** - (insert link here)
+**Team Presentation** - https://youtu.be/r4DLIypw2yQ?si=iot5J9D43bTY3shq
 
 **Professional Development and Impact:**
 This project showcased my intepersonal communication skills through working with a group of people I have never previously worked with. I was also able to take on a predictive modelling task (Gradient Boosting Regression),  aswell as as a bespoke financial sentiment model which was not covered in the programme. Finally, a genuine passion for predictive analytics was cemented in the exploration of the business questions, a passion which I would love to be able to explore further.
